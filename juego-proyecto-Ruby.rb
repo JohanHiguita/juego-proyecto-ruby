@@ -5,7 +5,7 @@
  	arr = IO.readlines("questions_answers.txt") #convertir cada linea del archivo en un elemento de un array
  	arr.delete("\n") #eliminar los saltos de línea
  	hashQA={:question =>arr[2*number_q], :answer => arr[2*number_q+1] }
- 	hashQA[:question].tr!("\n","")
+ 	hashQA[:question].tr!("\n","")#eliminar los saltos de línea al final de cada elemento
  	hashQA[:answer].tr!("\n","")
  	hashQA
 
