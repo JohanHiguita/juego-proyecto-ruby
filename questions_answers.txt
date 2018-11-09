@@ -1,0 +1,14 @@
+¿Como se llama Protocolo de transferencia de hipertexto, que permite las transferencias de información en la World Wide Web?
+HTTP
+
+Lenguaje de diseño gráfico para definir y crear la presentación de un documento HTML
+CSS
+
+Un tipo de archivo en el que todos los valores están delimitados por comas
+CSV
+
+Formato de texto ligero para el intercambio de datos
+JSON
+
+Palabra clave para en la sintaxis que se utiliza para crear una clase en Ruby
+class
